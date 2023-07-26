@@ -12,8 +12,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-Go into server folder and run nodemon index.js. Server will run at port: 8080.
-Same way go into client folder and run npm run dev to run frontend on localhost: 3000.
+Go into server folder and run `nodemon index.js`. Server will run at port: 8080.
+Same way go into client folder and run `npm run dev` to run frontend on localhost: 3000.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
